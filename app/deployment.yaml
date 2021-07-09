@@ -9,7 +9,7 @@ metadata:
     app.kubernetes.io/name: spring-petclinic
     app.kubernetes.io/part-of: spring-petclinic
     app.openshift.io/runtime: java
-    hello: world222277
+    hello: world22227788
   name: spring-petclinic
 spec:
   replicas: 1
